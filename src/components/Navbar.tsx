@@ -1,4 +1,4 @@
-import { Container, Navbar as Navbarbs } from "react-bootstrap";
+import { Container, Button, Navbar as Navbarbs } from "react-bootstrap";
 import { Nav } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 
@@ -17,7 +17,8 @@ export function Navbar() {
             About
           </Nav.Link>
         </Nav>
-        <button
+        <Button
+          variant="outline-primary"
           className="rounded-circle"
           style={{ width: "3rem", height: "3rem", position: "relative" }}
         >
@@ -41,7 +42,7 @@ export function Navbar() {
           >
             2
           </div>
-        </button>
+        </Button>
       </Container>
     </Navbarbs>
   );
