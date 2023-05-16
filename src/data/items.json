@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Bike",
+    "price": 10.99,
+    "imgUrl": "/imgs/bicycle.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mobile Phone",
+    "price": 1199,
+    "imgUrl": "/imgs/smartphone.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cup",
+    "price": 1.05,
+    "imgUrl": "/imgs/cup3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Clock",
+    "price": 14000,
+    "imgUrl": "/imgs/clock.jpg"
+  }
+]
